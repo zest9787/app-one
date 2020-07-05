@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import AppOne from "./AppOne";
+import AppOne from "./AppOne/AppOne";
 
 
 ReactDOM.render(
